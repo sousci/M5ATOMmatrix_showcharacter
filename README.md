@@ -1,5 +1,5 @@
 # M5ATOMmatrix_showcharacter
-Showing character or String on M5ATOMmatrix.
+Showing character or String on M5ATOMmatrix.  
 ![hello.gif](https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/hello.gif)
 
 ## How to Installing
