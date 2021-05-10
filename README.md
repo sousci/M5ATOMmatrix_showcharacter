@@ -10,8 +10,10 @@ Showing character or String on M5ATOMmatrix.
 1. M5ATOMmatrix showcharacter block has been installed
 
 ## How to Use
-1. First, install a "ATOM_setup" block at a head of code to load a library.
-1. Install a "print" block where you want, don't forget "text" block and parameters.
+1. First, install a "ATOM_setup" block at a head of code to load a library.  
+![install_ATOM_setup](https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/install_ATOM_setup.png)  
+1. Install a "print" block where you want, don't forget "text" block and parameters.  
+![install_print_block](https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/install_print_block.png)  
 
 ### description of parameters
 | parameter | description |
