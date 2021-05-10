@@ -1,5 +1,6 @@
 # M5ATOMmatrix_showcharacter
 Showing character or String on M5ATOMmatrix.
+![hello.gif](https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/hello.gif)
 
 ## How to Installing
 1. Downroad a **.m5b** file [https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/ATOMmat_ShowString.m5b](https://github.com/sousci/M5ATOMmatrix_showcharacter/blob/main/ATOMmat_ShowString.m5b)
